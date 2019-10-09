@@ -30,5 +30,21 @@ npm run dev
 # build for production with minification
 npm run build
 ```
+## Build
 
-//这里是我修改的第一处
+``` bash
+# build for production with minification
+npm run build
+```
+## Build
+
+``` bash
+# build for production with minification
+npm run build
+```
+## Build
+
+``` bash
+# build for production with minification
+npm run build
+```
